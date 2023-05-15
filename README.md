@@ -1,16 +1,28 @@
-# auto_route_example
 
-A new Flutter project.
+## Auto Route Flutter Example
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Demo Video
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/Justin-roy/auto_route_example/assets/69432186/b07548d0-2f35-4313-97bf-6baff535cfff
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Authors
+
+- [@Justin Roy](https://www.linkedin.com/in/justin-roy-4817551ba/)
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+## Support
+
+For support, Give a star ⭐ to repo.
+
