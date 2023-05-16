@@ -1,6 +1,8 @@
 
 ## Auto Route Flutter Example
 
+Flutter Auto Route is a powerful routing library for Flutter applications that simplifies the process of managing navigation within an app. It provides a declarative and type-safe approach to defining and handling routes, making it easier to handle complex navigation flows.
+
 
 ## Demo Video
 
