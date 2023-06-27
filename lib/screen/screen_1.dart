@@ -1,4 +1,5 @@
 import 'package:auto_route/auto_route.dart';
+import 'package:auto_route_example/widgets/rounded_button.dart';
 import 'package:flutter/material.dart';
 
 import '../routes/routes_import.gr.dart';
@@ -19,11 +20,11 @@ class Screen1 extends StatelessWidget {
             style: Theme.of(context).textTheme.displayLarge,
             textAlign: TextAlign.center,
           ),
-          FilledButton.tonal(
+          RoundedButton(
             onPressed: () {
               AutoRouter.of(context).push(const Screen2Route());
             },
-            child: const Text('click to next screen'),
+            label: 'click me next screen',
           ),
         ],
       )),
